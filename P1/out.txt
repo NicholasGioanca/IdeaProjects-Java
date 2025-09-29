@@ -1,0 +1,1 @@
+Suma: 35 Minim: 2 Maxim: 10 Media: 5.833333333333333
