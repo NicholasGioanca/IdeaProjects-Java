@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ion Popescu",
+    "post": "director general",
+    "dataAngajarii": [2018, 4, 15],
+    "salariu": 4500.0
+  },
+  {
+    "nume": "Maria Ionescu",
+    "post": "sef departament",
+    "dataAngajarii": [2020, 8, 10],
+    "salariu": 3200.0
+  },
+  {
+    "nume": "Andrei Georgescu",
+    "post": "inginer",
+    "dataAngajarii": [2021, 5, 20],
+    "salariu": 2700.0
+  },
+  {
+    "nume": "Elena Stan",
+    "post": "analist",
+    "dataAngajarii": [2019, 7, 1],
+    "salariu": 2800.0
+  },
+  {
+    "nume": "Vasile Radu",
+    "post": "director adjunct",
+    "dataAngajarii": [2017, 4, 5],
+    "salariu": 4000.0
+  }
+]
