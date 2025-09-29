@@ -1,0 +1,6 @@
+Imprimanta,Canon PIXMA,1001,450.0,Zona A,EXPUS,15,4800,300,ALB_NEGRU
+Imprimanta,HP LaserJet,1002,600.0,Zona B,ACHIZITIONAT,30,1200,200,COLOR
+Copiator,Canon imageRUNNER,2001,850.0,Zona C,VANDUT,600,A4
+Copiator,Xerox WorkCentre,2002,1000.0,Zona A,EXPUS,800,A3
+SistemCalcul,Dell Inspiron,3001,2500.0,Zona D,ACHIZITIONAT,LED,2.5,512,Windows
+SistemCalcul,HP Pavilion,3002,2300.0,Zona E,VANDUT,LCD,3.0,1024,Linux
